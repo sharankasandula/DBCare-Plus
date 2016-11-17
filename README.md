@@ -1,8 +1,8 @@
 <h1> DBCare-Plus (Software Architecture Development) </h1>
 <p> Group size: 5 <br>
 The idea for our app DBCare+ was conceived in stages and UI was implemented. <br> </p>
-<p> <b> Stage 1 and 2: Interviews and Personas </b>
-Roles: Conducted user and expert interviews (Research for app) and assisted in creating Personas, which helped us to identify target user groups and how tech saavy they are, and to further build our user stories. 
+<p> <b> Stage 1 and 2: Interviews and Personas </b> <br>
+Roles: Conducted user and expert interviews (Research for app) and assisted in creating Personas, which helped us to identify target user groups and how tech saavy they are, and to further build our user stories. <br> 
 https://github.com/Kavana-CR/DBCare-Plus/blob/master/Persona1.png <br> </p>
 <b> Stage 3: User Stories </b> <br>
 Roles: Actively participated in brainstorming user stories.<br>
