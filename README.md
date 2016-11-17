@@ -13,7 +13,7 @@ Assisted in Story Mapping which gives an overview on how a user navigate through
 Roles: Assisted in coming up with Journey Map which is a path where a user navigates through the entire application and what he/she thinks and feels while going through our app features.<br>
 <img src= "https://github.com/Kavana-CR/DBCare-Plus/blob/master/Experience%20Map.jpg"> </p> <br>
 <p> <b> Stage 6: Paper Prototype </b> <br>
-Roles: Assisted in designing and paper prototyping using UXpin. We used the conventional method of drawing and linked the drawings using UXPin. Click on the following link to see a clickable paper prototype in action. <br>
+Roles: Assisted in designing and paper prototyping using UXpin. We drew on paper, took screenshots of the drawings and linked these drawings using UXPin. Click on the following link to see a clickable paper prototype in action. <br>
 https://collaborate.uxpin.com/ec8366d1bbb59116a1f05deacab2fc27f3fc084b </p> <br>
 <p> <b> Stage 7: High-Fidelity Prototype </b> <br>
 Roles: Assisted in developing a High-Fidelity prototype using Ionic Framework with HTML5 and CSS3. Click on the following link to view the prototype. <br>
