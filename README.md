@@ -20,5 +20,5 @@ Roles: Assisted in developing a High-Fidelity prototype using Ionic Framework wi
 http://dbcarered.s3-website-us-west-2.amazonaws.com/#/login </p> <br>
 <p> <b> Stage 7: User Testing </b> <br>
 Roles: Assisted in  User Testing by showing the working of our high fidelity prototype of the application to users and feedbacks were recorded using Google Forms. Please click on the following link to see the questions asked for user feedback. <br>
-<img scrc="http://goo.gl/forms/J2QpCaEj2R">
+http://goo.gl/forms/J2QpCaEj2R
 
