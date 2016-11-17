@@ -6,7 +6,7 @@ The idea for our app DBCare+ was conceived in stages and UI was implemented.
 Roles: Conducted user and expert interviews (Research for app) and assisted in creating <b>Personas</b>, which helped us to identify target user groups and how tech saavy they are, and to further build our user stories. 
 https://github.com/Kavana-CR/DBCare-Plus/blob/master/Persona1.png
 
-<b>Stage 3: User Stories<b>
+<b> Stage 3: User Stories <b>
 Roles: Actively participated in brainstorming user stories.  
 
 Stage 4: Story Mapping
