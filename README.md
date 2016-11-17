@@ -1,4 +1,4 @@
-<title> DBCare-Plus (Software Architecture Development) </title>
+<title> DBCare-Plus (Software Architecture Development) </title> <br>
 Group size: 5
 The idea for our app DBCare+ was conceived in stages and UI was implemented.
 
