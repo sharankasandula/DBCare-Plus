@@ -7,4 +7,4 @@ Roles and Responsibilities:
 •	Developed User Stories. Implementation of Story Mapping and Customer Experience Map (Journey Map).
 •	Assisted in Paper Prototyping (UXPin) and high fidelity prototype.
 
-<img scr= https://github.com/Kavana-CR/DBCare-Plus/blob/master/Persona1.png>
+https://github.com/Kavana-CR/DBCare-Plus/blob/master/Persona1.png
