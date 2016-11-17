@@ -1,10 +1,13 @@
-# DBCare-Plus
-This project was a part of my “Software Architecture Development” module. The goal of this project was to create a 
-health management application that helps diabetics to manage their condition better. In this module, we conceived 
-the idea and implemented the UI.
-Roles and Responsibilities:
-•	Assisted in creating Personas based on User and Expert Interviews conducted (Research for App).
-•	Developed User Stories. Implementation of Story Mapping and Customer Experience Map (Journey Map).
-•	Assisted in Paper Prototyping (UXPin) and high fidelity prototype.
+# DBCare-Plus (Software Architecture Development)
+Group size: 5
+The idea for our app DBCare+ was conceived in stages and UI was implemented.
 
+Stage 1&2: Interviews and Personas
+Role: Conducted user and expert interviews (Research for app) and assisted in creating <b>Personas<b>, 
 https://github.com/Kavana-CR/DBCare-Plus/blob/master/Persona1.png
+
+Stage 3: User Stories
+Developed User Stories. 
+
+Stage 4: Story Mapping
+https://github.com/Kavana-CR/DBCare-Plus/blob/master/Story%20Mapping.jpg
