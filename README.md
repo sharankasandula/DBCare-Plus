@@ -17,4 +17,8 @@ Roles: Assisted in designing and paper prototyping using UXpin. We used the conv
 <a> https://collaborate.uxpin.com/ec8366d1bbb59116a1f05deacab2fc27f3fc084b </a> </p> <br>
 <p> <b> Stage 7: High-Fidelity Prototype </b>
 Roles: Assisted in developing a High-Fidelity prototype using Ionic Framework with HTML5 and CSS3. Click on the following link to view the prototype. <br>
-http://dbcarered.s3-website-us-west-2.amazonaws.com/#/login </p>
+http://dbcarered.s3-website-us-west-2.amazonaws.com/#/login </p> <br>
+<p> <b> Stage 7: User Testing </b>
+Roles: Assisted in  User Testing by showing the working of our high fidelity prototype of the application to users and feedbacks were recorded using Google Forms. Please click on the following link to see the questions asked for user feedback. <br>
+<a> http://goo.gl/forms/J2QpCaEj2R </a>
+
