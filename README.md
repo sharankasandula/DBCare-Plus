@@ -17,7 +17,7 @@ Roles: Assisted in coming up with Journey Map which is a path where a user navig
 Roles: Assisted in designing and paper prototyping using UXpin. We drew on paper, took screenshots of the drawings and linked these drawings using UXPin. Click on the following link to see a clickable paper prototype in action. <br>
 https://collaborate.uxpin.com/ec8366d1bbb59116a1f05deacab2fc27f3fc084b </p> <br>
 <p> <b> Stage 7: High-Fidelity Prototype </b> <br>
-Roles: Assisted in developing a High-Fidelity prototype using Ionic Framework with HTML5 and CSS3. Click on the following link to view the prototype. <br>
+Roles: Assisted in developing a High-Fidelity prototype using Ionic Framework with HTML5 and CSS3 (UI of the APP). Click on the following link to view the prototype. <br>
 http://dbcarered.s3-website-us-west-2.amazonaws.com/#/login </p> <br>
 <p> <b> Stage 7: User Testing </b> <br>
 Roles: Assisted in  User Testing by showing the working of our high fidelity prototype of the application to users and feedbacks were recorded using Google Forms. Please click on the following link to see the questions asked for user feedback. <br>
