@@ -14,11 +14,11 @@ Roles: Assisted in coming up with Journey Map which is a path where a user navig
 <img src= "https://github.com/Kavana-CR/DBCare-Plus/blob/master/Experience%20Map.jpg"> </p> <br>
 <p> <b> Stage 6: Paper Prototype </b> <br>
 Roles: Assisted in designing and paper prototyping using UXpin. We used the conventional method of drawing and linked the drawings using UXPin. Click on the following link to see a clickable paper prototype in action. <br>
-<img src="https://collaborate.uxpin.com/ec8366d1bbb59116a1f05deacab2fc27f3fc084b"> </p> <br>
-<p> <b> Stage 7: High-Fidelity Prototype </b>
+https://collaborate.uxpin.com/ec8366d1bbb59116a1f05deacab2fc27f3fc084b </p> <br>
+<p> <b> Stage 7: High-Fidelity Prototype </b> <br>
 Roles: Assisted in developing a High-Fidelity prototype using Ionic Framework with HTML5 and CSS3. Click on the following link to view the prototype. <br>
 http://dbcarered.s3-website-us-west-2.amazonaws.com/#/login </p> <br>
-<p> <b> Stage 7: User Testing </b>
+<p> <b> Stage 7: User Testing </b> <br>
 Roles: Assisted in  User Testing by showing the working of our high fidelity prototype of the application to users and feedbacks were recorded using Google Forms. Please click on the following link to see the questions asked for user feedback. <br>
 <img scrc="http://goo.gl/forms/J2QpCaEj2R">
 
